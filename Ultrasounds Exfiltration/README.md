@@ -35,8 +35,8 @@
 ## Install
 
 ```bash
-git clone <repo-url>
-cd <repo>
+git clone https://github.com/MaxPriCae-Dev/PoC-Exfiltration/tree/e9a0d347e5fd7dc1210c39cfbe339ada90ffbd65/Ultrasounds%20Exfiltration
+cd "Ultrasounds Exfiltration"
 python3 -m venv .venv
 source .venv/bin/activate   # Linux/macOS
 # Windows: .venv\Scripts\activate
