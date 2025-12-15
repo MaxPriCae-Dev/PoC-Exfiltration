@@ -26,4 +26,5 @@ for bit in bits:
         cap = cv2.VideoCapture(0)
 
 cap.release()
-print("Transmisión finalizada.")
+print("Transmission completed.")
+
